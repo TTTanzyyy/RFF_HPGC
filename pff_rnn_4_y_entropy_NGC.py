@@ -1,9 +1,3 @@
-"""
-Code for paper "The Predictive Forward-Forward Algorithm" (Ororbia & Mali, 2022)
-
-This file contains model constructor and its credit assignment code.
-"""
-
 import os
 import sys
 import copy
